@@ -1,0 +1,27 @@
+section { 
+    text-align: center; 
+    background-color: #0d051a; 
+    color:#372a4b; 
+} 
+body { 
+    text-align: center; 
+    background-color: #0d051a; 
+    color:#372a4a; 
+}  
+h1{
+    color:#522a65;
+}
+
+#navbarNavAltMarkup a{
+    color:#372a4b;
+   }
+
+#navbar1{
+    color:#372a4b;
+}
+
+.galeria{
+    width: 400px;
+    height: 600px;
+    padding: 15px;
+}
